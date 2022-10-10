@@ -17,12 +17,13 @@ header {
     background-color: #08080894;
     width: 100%;
     position: fixed;
-    z-index: 99999;
+    z-index: 999;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 200px;
     margin-top: 0%;
+    flex-wrap: wrap;
 }
 
 .img {
@@ -197,6 +198,10 @@ header {
 
     footer {
         margin-left: 2%;
+    }
+
+    .img {
+        padding-left: 0%;
     }
 
 }

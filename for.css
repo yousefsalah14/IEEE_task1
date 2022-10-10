@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    color: rgba(0, 0, 0, 0.603);
+    color: whitesmoke;
 }
 
 body {
@@ -184,7 +184,7 @@ header {
     }
 
     body {
-        background-color: rgba(0, 0, 0, 0.603);
+        background-color: black;
     }
 
 }
@@ -260,7 +260,7 @@ header {
     flex-wrap: wrap;
     padding-bottom: 25px;
     flex-direction: row;
-    background-color: #080808;
+
 }
 
 .cardposation {

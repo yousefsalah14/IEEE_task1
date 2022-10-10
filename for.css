@@ -6,11 +6,11 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    color: whitesmoke;
+    color: rgba(0, 0, 0, 0.603);
 }
 
 body {
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.603);
 }
 
 header {

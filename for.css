@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.603);
+    background-color: black;
 }
 
 header {
@@ -270,7 +270,7 @@ header {
 }
 
 .card {
-    background-color: #080808;
+
     width: 21.25em;
     box-shadow: 0 5px 25px rgba(81, 91, 224, 10%);
     padding: 15px;

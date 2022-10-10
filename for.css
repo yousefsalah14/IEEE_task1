@@ -183,6 +183,10 @@ header {
         padding-bottom: 5px;
     }
 
+    body {
+        background-color: rgba(0, 0, 0, 0.603);
+    }
+
 }
 
 

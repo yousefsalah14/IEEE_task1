@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    color: white;
+    color: whitesmoke;
 }
 
 body {
@@ -113,6 +113,7 @@ header {
         margin-left: -15%;
         position: absolute;
         top: 30%;
+        color: white;
     }
 
     a.bt {
@@ -186,6 +187,12 @@ header {
     body {
         background-color: black;
     }
+        .info {
+            color: #1c5fa3;
+            font-size: 1em;
+            margin: 8px;
+            font-weight: 500;
+        }
 
 }
 
@@ -300,7 +307,7 @@ header {
 }
 
 .project-card {
-    background-color: #080808;
+
     border: 1px solid white;
     min-height: 12em;
     width: 23em;

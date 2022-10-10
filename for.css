@@ -187,12 +187,17 @@ header {
     body {
         background-color: black;
     }
-        .info {
-            color: #1c5fa3;
-            font-size: 1em;
-            margin: 8px;
-            font-weight: 500;
-        }
+
+    .info {
+        color: #1c5fa3;
+        font-size: 1em;
+        margin: 8px;
+        font-weight: 500;
+    }
+
+    footer {
+        margin-left: 2%;
+    }
 
 }
 
